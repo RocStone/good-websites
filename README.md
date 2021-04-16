@@ -7,6 +7,6 @@
 
 ## 机器学习
 
-1. [李航统计学习代码](https://github.com/fengdu78/lihang-code)<span id="lihang"> </span>
+1. [李航统计学习代码](https://github.com/fengdu78/lihang-code)<span id="lihang">.</span>
 
 2. 
