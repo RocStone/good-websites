@@ -12,7 +12,7 @@
 ### 不正经事
 1. [把我网站的主题配置完](https://github.com/blinkfox/hexo-theme-matery/blob/develop/README_CN.md)
 
-2. 好好学习一下双系统的原理，装系统。
+2. ~~好好学习一下双系统的原理，装系统。~~ ~~已经写好博客~~
    
 ## 机器学习
 
