@@ -17,10 +17,13 @@
 
 2. [李航的代码要过一遍，全部自己推过，写成博客](#lihang)
 
+
 ### 不正经事
-1. [把我网站的主题配置完](https://github.com/blinkfox/hexo-theme-matery/blob/develop/README_CN.md)
+1. ~~[把我网站的主题配置完](https://github.com/blinkfox/hexo-theme-matery/blob/develop/README_CN.md)~~
 
 2. ~~好好学习一下双系统的原理，装系统。~~ ~~已经写好博客~~
+   
+3. 修改一下math all in one 插件，让他正常显示online images
    
 ## 机器学习
 
